@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a3ef38c-2cd2-423f-99e7-057116e7fc5f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HrwmssGRclIxho7HUMNcfDB0sl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kinmi/IdeaProjects/Project-3-com-herokuapp-sw-2/jar/selenium-server-4.6.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kinmi\IdeaProjects\Project-3-com-herokuapp-sw-2\jar" />
+      <recent name="C:\Users\kinmi\IdeaProjects\Project-3-com-herokuapp-sw-2\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTest.verifyThePasswordErrorMessage">
+    <configuration name="LoginTest.UserShouldLoginSuccessfullyWithValidCredentials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-3-com-herokuapp-sw-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="UserShouldLoginSuccessfullyWithValidCredentials" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyThePasswordErrorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-3-com-herokuapp-sw-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="verifyThePasswordErrorMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.verifyTheUsernameErrorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-3-com-herokuapp-sw-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.LoginTest" />
+      <option name="METHOD_NAME" value="verifyTheUsernameErrorMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest.verifyThePasswordErrorMessage" />
+        <item itemvalue="JUnit.LoginTest.verifyTheUsernameErrorMessage" />
+        <item itemvalue="JUnit.LoginTest.UserShouldLoginSuccessfullyWithValidCredentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a3ef38c-2cd2-423f-99e7-057116e7fc5f" name="Changes" comment="" />
+      <created>1669056675341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669056675341</updated>
+    </task>
+    <servers />
+  </component>
+</project>
